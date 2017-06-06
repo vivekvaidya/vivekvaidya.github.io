@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/vivekvaidya
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://vivekvaidya.me
+  * I am vivekvaidya (https://keybase.io/vivekvaidya) on keybase.
+  * I have a public key ASBdNxuxdAdFeHh886PZQ20rt9RvW-0a6aNv7pq_GQFmQgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01205d371bb174074578787cf3a3d9436d2bb7d46f5bed1ae9a36fee9abf190166420a",
+            "host": "keybase.io",
+            "kid": "01205d371bb174074578787cf3a3d9436d2bb7d46f5bed1ae9a36fee9abf190166420a",
+            "uid": "4306983190899b0b21ec3076a77e6c19",
+            "username": "vivekvaidya"
+        },
+        "service": {
+            "hostname": "vivekvaidya.me",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.23"
+    },
+    "ctime": 1496601561,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1496601534,
+        "hash": "7c43b0822049abe39a9c09aa10eb0cb330ca0e10ee457b4aae3120641084c9df01b351f3fabad1102dd2521d1623aacf0fdb8799ba3b5954bf332c9edbe4de36",
+        "seqno": 1142574
+    },
+    "prev": "41077092762aa51d44b795f52752b281fab7492cbf4c2c2874c08c9db3065171",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgXTcbsXQHRXh4fPOj2UNtK7fUb1vtGumjb+6avxkBZkIKp3BheWxvYWTFAvl7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNWQzNzFiYjE3NDA3NDU3ODc4N2NmM2EzZDk0MzZkMmJiN2Q0NmY1YmVkMWFlOWEzNmZlZTlhYmYxOTAxNjY0MjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNWQzNzFiYjE3NDA3NDU3ODc4N2NmM2EzZDk0MzZkMmJiN2Q0NmY1YmVkMWFlOWEzNmZlZTlhYmYxOTAxNjY0MjBhIiwidWlkIjoiNDMwNjk4MzE5MDg5OWIwYjIxZWMzMDc2YTc3ZTZjMTkiLCJ1c2VybmFtZSI6InZpdmVrdmFpZHlhIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ2aXZla3ZhaWR5YS5tZSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMjMifSwiY3RpbWUiOjE0OTY2MDE1NjEsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ5NjYwMTUzNCwiaGFzaCI6IjdjNDNiMDgyMjA0OWFiZTM5YTljMDlhYTEwZWIwY2IzMzBjYTBlMTBlZTQ1N2I0YWFlMzEyMDY0MTA4NGM5ZGYwMWIzNTFmM2ZhYmFkMTEwMmRkMjUyMWQxNjIzYWFjZjBmZGI4Nzk5YmEzYjU5NTRiZjMzMmM5ZWRiZTRkZTM2Iiwic2Vxbm8iOjExNDI1NzR9LCJwcmV2IjoiNDEwNzcwOTI3NjJhYTUxZDQ0Yjc5NWY1Mjc1MmIyODFmYWI3NDkyY2JmNGMyYzI4NzRjMDhjOWRiMzA2NTE3MSIsInNlcW5vIjo1LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQLpn/Qt6D/M2/iaYyrYSZ7QTw36mtudCGm3w47IxsYoyeEMT+nakJ1XPhANpLyK4etR6cBAeFjimiHTyAjz+tAyoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCBBpARhK4RMiYdI1H1/7aukoBqBwZPWCwmeNrJSew67fKN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/vivekvaidya
+
+==================================================================
